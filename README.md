@@ -1,3 +1,10 @@
+<h2>Props</h2>
+<p>##What are props?<br>
+Components in React can be passed some parameters. These parameters are generally named props. There is no hard and fast rule that they should be mentioned as props, but it is convenient to use the same convention.<br>
+##Prop Drilling<br>
+ Prop drilling is basically a situation when the same data is being sent at almost every level due to requirements in the final level.
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
