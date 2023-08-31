@@ -4,13 +4,13 @@
 Welcome to the README file for understanding and working with props in React! Props (short for "properties") are a fundamental concept in React that allow you to pass data from parent to child components. This communication mechanism is crucial for building dynamic and reusable components within your application.
 
 ## Table of Contents
-- [What are Props?
-- [Passing props
-- [Using Props
-- [Default Props]
-- [Prop Types]
-- [Children props
-- [Example
+- What are Props?
+- Passing props
+- Using Props
+- Default Props
+- Prop Types]
+- Children props
+- Example
 
 ## What are Props?
 Props are a way of passing data from a parent component to a child component. They enable you to customize and configure your child components dynamically, allowing you to reuse the same component with different data.
